@@ -1,7 +1,4 @@
----
-Group: "**C - Code (Basic)**"
-Index: 11
----
+
 #### Loops
 Loops allow you to execute a block of code repeatedly.
 
