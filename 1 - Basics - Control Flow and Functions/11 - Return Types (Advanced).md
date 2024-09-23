@@ -1,8 +1,3 @@
----
-Group: "**C - Code (Basic)**"
-Index: 11
----
-
 
 ### What Can Be Used as a Return Type?
 
