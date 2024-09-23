@@ -1,7 +1,4 @@
----
-Group: "**C - Code (Basic)**"
-Index: 11
----
+
 ### Jump Statements
 
 Jump statements allow you to control the flow of the program by jumping to other parts of the code. The main jump statements in C# are `break`, `continue`, and `return`.
