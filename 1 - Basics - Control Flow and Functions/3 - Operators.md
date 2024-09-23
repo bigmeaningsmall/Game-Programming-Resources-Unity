@@ -1,7 +1,4 @@
----
-Group: "**C - Code (Basic)**"
-Index: 11
----
+
 #### 3. Operators
 Operators are symbols that tell the compiler to perform specific mathematical, relational, or logical operations and produce a result.
 
