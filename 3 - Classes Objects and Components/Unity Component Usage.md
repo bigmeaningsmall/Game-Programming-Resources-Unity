@@ -1,6 +1,4 @@
----
-Group: "**B - Concept**"
----
+
 
 ### Unity-Specific Concepts
 
