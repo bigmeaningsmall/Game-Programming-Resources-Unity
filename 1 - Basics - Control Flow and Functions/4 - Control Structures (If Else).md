@@ -1,7 +1,4 @@
----
-Group: "**C - Code (Basic)**"
-Index: 11
----
+
 ### Control Structures
 
 #### If Statements
