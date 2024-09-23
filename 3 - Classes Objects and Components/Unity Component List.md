@@ -1,6 +1,3 @@
----
-Group: "**C - Code (Basic)**"
----
 
 
 ### Key Unity Components
