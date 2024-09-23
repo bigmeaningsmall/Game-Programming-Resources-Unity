@@ -1,6 +1,3 @@
----
-Group: "**C - Code (Basic)**"
----
 
 
 ### Classes and Objects
