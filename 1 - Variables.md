@@ -1,7 +1,4 @@
----
-Group: "**C - Code (Basic)**"
-Index: 11
----
+
 
 ### Basic Programming Concepts in Unity C#
 
