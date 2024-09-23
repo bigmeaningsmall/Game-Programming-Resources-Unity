@@ -1,7 +1,4 @@
----
-Group: "**C - Code (Basic)**"
-Index: 11
----
+
 
 ## Switch Statements
 Switch statements allow you to select one of many code blocks to be executed.
