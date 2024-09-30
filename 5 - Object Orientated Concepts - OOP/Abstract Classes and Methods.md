@@ -1,6 +1,3 @@
----
-Group: "**D - Code (Intermediate)**"
----
 
 
 ### Abstract Classes and Methods
