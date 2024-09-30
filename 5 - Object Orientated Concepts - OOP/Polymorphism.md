@@ -1,6 +1,3 @@
----
-Group: "**B - Concept**"
----
 
 
 ### Polymorphism
